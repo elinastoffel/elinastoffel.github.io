@@ -9,9 +9,10 @@ output:
 # This is Elina's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
 You can do everything you might usually do.
 
-Yhat means you can add text.
+That means you can add text.
 
 This website is an example coming from [P8105](https://p8105.com/making_websites.html). We're making websites today! Learn. more about this site [here](about.html)
 

@@ -1,10 +1,12 @@
-name: "Yay internet!"
+name: "Elina's Website"
 output_dir: "."
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
+    - text: "Publications"
+      href: publications.html
     - text: "Plots"
       href: plots.html
     - text: "Plotly plots"
@@ -12,7 +14,7 @@ navbar:
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<es3866@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/<elinastoffel>/
 output:

@@ -43,4 +43,9 @@ output: html_document
     *Distinction of phyllodes tumor from fibroadenoma using deep learning image analysis.*  
     *Eur J Radiol Open.* 2018. [DOI](https://doi.org/10.1016/j.ejro.2018.09.002)
 
+# Articles
+
+1. Liver Fellows Network ALD Guidelines [link](https://www.aasld.org/liver-fellow-network/core-series/guidelines/lfn-guidelines-alcohol-associated-liver-disease)
+
+
 Go back to the [homepage](index.html).

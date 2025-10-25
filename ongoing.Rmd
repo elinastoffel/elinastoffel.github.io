@@ -1,0 +1,20 @@
+---
+title: "Ongoing Projects"
+output: html_document
+---
+
+1. **Stoffel E**, Im G.  
+   *Con: Alcohol abstinence does not impact post-transplant outcomes in ALD and AAH.*   
+   *Current Hepatology Reports.* In revision, October 23, 2025.
+   
+2. **Stoffel E**, Lin K, Cornet N, Verna E, Freedberg D.    
+  *Integrating Addiction Care in Hepatology: Impact of Liver Consultation on Post- Discharge AUD Treatment in Alcohol-Associated Hepatitis.*
+  *The Journal of Substance Abuse Treatment.* Under review, 15th, 2025.
+  
+3. **Jahagirdar V, Stoffel E**, Rama K, Im G, Louvet A, Arab, JP.   
+  *Expert Practical Recommendations on Alcohol-Related Liver Disease.*    
+  *Seminars of Liver disease.* Under review, July 22nd, 2025
+
+
+
+Go back to the [homepage](index.html).

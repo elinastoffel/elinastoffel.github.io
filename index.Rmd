@@ -1,0 +1,79 @@
+---
+title: "My personal website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Introduction
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+
+I'm **Elina Stoffel, MD**, a GI fellow and clinical researcher at Columbia University Irving Medical Center.  
+My work focuses on **alcohol-related liver disease**, **transplant outcomes**, and **health disparities in hepatology**.
+
+This site provides an overview of my ongoing research projects, selected [publications](publications.html), and dashboards developed in R and Plotly. I’m particularly interested in how predictive modeling and real-world data can inform early detection and intervention strategies for liver disease.
+
+
+
+# Academic Appointments
+
+06/2023 – 06/2026
+Gastroenterology Fellow, Columbia University Irving Medical Center, NY
+Hospital Appointments
+
+06/2020 – 06/2023
+Internal Medicine Resident, Columbia University Irving Medical Center, NY
+Research Experience
+
+09/2019 – 06/2020
+Postdoctoral Fellow, Laboratory of Molecular Immunology, Prof. Michel Nussenzweig, The Rockefeller University, NY
+
+# Clinical Electives
+07/2018 – 07/2019 Clinical Rotations at:
+
+- Hematology/Oncology, Weill Cornell Hospital, NY
+
+-	Benign Hematology, Memorial Sloan Kettering Cancer Center, NY
+
+-	Obstetrics and Gynecology, Imperial College London, UK
+
+-	Neurology, University of Cambridge, UK
+
+-	Surgery, Kantonsspital Glarus, Switzerland
+
+-	Internal Medicine, Spital Uster, Switzerland
+
+-	Infectious Diseases, Ifakara Health Institute, Tanzania
+ 
+# Education
+09/2013 – 09/2019
+MD, University of Zurich (Master of Medicine, summa cum laude); University of Vienna (2016-17 Erasmus exchange)
+
+Dissertation (2018): Analysis of anti-TNF-induced skin lesions reveals strong Th1 activation (Published in British Journal of Dermatology, 2018)
+
+08/2007 – 07/2013
+Matura (Swiss High School Degree), Kantonsschule Küsnacht
+GPA: 5.21 / 6.0
+ 
+# Training
+06/2023 – 06/2026
+Gastroenterology Fellowship, Columbia University Irving Medical Center
+
+06/2020 – 06/2023
+Internal Medicine Residency, Columbia University Irving Medical Center
+
+
+
+
+
+Learn more about this site [here](about.html)
+
+To show that you can just use RMD like normal, check out [this page](plots.html) with plots.
+
+
+Here's a picture of me:
+
+![](images/ID.jpg)

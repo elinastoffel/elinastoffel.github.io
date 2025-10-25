@@ -1,0 +1,46 @@
+---
+title: "Publications"
+output: html_document
+---
+
+1. **Hwang SY, Stoffel E**, Kim DS, Verna E, Zhang W.  
+   *Racial disparities of alcohol-associated liver disease and its complications in hospitalized patients with alcohol use disorder.*  
+   *Gastro Hep Advances.* In press, Nov 29, 2024. [DOI](https://doi.org/10.1016/j.gastha.2024.100592)
+
+2. **Stoffel E**, Hwang SY, Qian X, Geller B, Morelli G, Zhang W.  
+   *Sarcopenia is an independent risk factor for short-term mortality in patients undergoing TIPS.*  
+   *Eur J Gastroenterol Hepatol.* 2024;36(8):1010–1015. [DOI](https://doi.org/10.1097/MEG.0000000000002790)
+
+3. Mellgard G, **Stoffel E**, Michel A, Iqbal F, Provenzano A, Apkan IJ, Amengual J, Pro B.  
+   *Hypereosinophilic syndrome with leptomeningeal involvement: a not-so-classical case report of classical Hodgkin Lymphoma.*  
+   *Leuk Lymphoma.* 2023;64(13):1–6. [DOI](https://10.1080/10428194.2023.2252124)
+
+4. Gaebler C, Nogueira L, **Stoffel E**, Oliveira TY, Breton G, Millard K, Turroja M, Butler A, Ramos V, Seaman MS, Reeves JD, Petroupoulos CJ, Shimeliovich I, Gazumyan A, Jiang CS, Jilg N, Scheid JF, Gandhi R, Walker BD, Snella MC, Fauci A, Chun TW, Caskey M, Nussenzweig MC. 
+   *Prolonged viral suppression with anti-HIV-1 antibody therapy.*  
+   *Nature.* 2022. [DOI](https://doi.org/10.1038/s41586-022-04597-1)
+
+5. Gaebler C, Falcinelli S, **Stoffel E**, Read J, Murtagh R, Oliveira TY, Ramos V, Lorenzi JC, Kirchherr J, James KS, Allard B, Baker C, Kuruc JD, Caskey M, Archin NM, Siliciano RF, Margolis DM, Nussenzweig MC. 
+   *Sequence evaluation and comparative analysis of novel assays for intact proviral HIV-1 DNA.*  
+   *J Virol.* 2021. [DOI](https://doi.org/10.1128/JVI.01986-20)
+
+6. **Stoffel E**, Maier H, Riedl E, Bruggen MC, Reininger B, Schaschinger M, Bangert C, Guenova E, Stingl G, Brunner PM.  
+   *Analysis of anti-TNF-induced skin lesions reveals strong Th1 activation with some distinct immunological characterstics.*  
+   *Br J Dermatol.* 2018;178(5):1151–1162. [DOI](https://doi.org/10.1111/bjd.16126)
+
+7. Becker AS, Mueller M, **Stoffel E**, Marcon M, Shafoor S, Boss A. 
+   *Classification of breast cancer in ultrasound imaging using a generic deep learning analysis software: a pilot study.*  
+   *Br J Radiol.* 2018;91(1083):20170576. [DOI](https://doi.org/10.1259/bjr.20170576)
+
+8. Stern SA, Doerig KR, Azevedo EP, **Stoffel E**, Friedman JM.  
+   *Associative learning of food cues controls feeding.*  
+   *Mol Psychiatry.* 2018. [DOI](https://doi.org/10.1038/s41380-018-0072-y)
+
+9. Huang Cao ZF, **Stoffel E**, Cohen P.  
+   *Role of perivascular adipose tissue in vascular physiology and pathology.*  
+   *Hypertension.* 2017;69(5):770–777. [DOI](https://doi.org/10.1161/HYPERTENSIONAHA.116.08451)
+
+10. **Stoffel E**, Becker AS, Wurnig MC, Marcon Magda, Ghafoor S, Berger N, Boss A.  
+    *Distinction of phyllodes tumor from fibroadenoma using deep learning image analysis.*  
+    *Eur J Radiol Open.* 2018. [DOI](https://doi.org/10.1016/j.ejro.2018.09.002)
+
+Go back to the [homepage](index.html).
